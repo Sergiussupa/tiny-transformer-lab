@@ -511,4 +511,4 @@ class MultiHeadSelfAttention:
             self.o_proj.params()
         )
 
-        return pso
+        return ps
